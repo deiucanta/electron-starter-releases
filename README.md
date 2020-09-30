@@ -1,1 +1,1 @@
-# electron-starter-releases
+# Electron Starter Releases
